@@ -16,4 +16,4 @@
 --
 
 ## 📫 How to reach me:
- - ** **Telegram**: [@GitHubContactMe](https://t.me/GitHubContactMe)
+ - **Telegram**: [@GitHubContactMe](https://t.me/GitHubContactMe)
